@@ -2,13 +2,13 @@
 
 A typescript script to generate a random painting from the The Metropolitan Museum of Art Collection API (https://metmuseum.github.io/).
 
-![image](https://user-images.githubusercontent.com/12840619/211289192-88c4a898-1381-470f-984d-fdac50b38e7e.png)
-
 Sort of a "Daily Dose of Culture" idea.
 
 The API is completely open to the public!
 
 >To the extent possible under law, The Metropolitan Museum of Art has waived all copyright and related or neighboring rights to this dataset using the Creative Commons Zero license. 
+
+![image](https://user-images.githubusercontent.com/12840619/211289192-88c4a898-1381-470f-984d-fdac50b38e7e.png)
 
 This app does the following:
 
