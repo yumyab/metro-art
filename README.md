@@ -20,3 +20,5 @@ Add a button to generate a new image etc.
 
 If the painting errors and doesnt generate (usually a licencing issue of the original painting, and it's agreements on reproductions etc) delete info and regenerate.
 
+Live at [mattt.net.au/painings](https://mattt.net.au/paintings/)
+
