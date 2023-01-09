@@ -1,5 +1,8 @@
 # metro-art
 
+![image](https://user-images.githubusercontent.com/12840619/211287429-423d9b78-da05-4d98-882b-c1c9fbe97e2b.png)
+
+
 A typescript script to generate a random painting from the The Metropolitan Museum of Art Collection API (https://metmuseum.github.io/).
 
 Sort of a "Daily Dose of Culture" idea.
