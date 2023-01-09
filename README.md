@@ -10,7 +10,7 @@ The API is completely open to the public!
 
 The main functions of the program:
 
-Generate a random image from the Metropolitan Museum of Art Collection (https://www.metmuseum.org/art/the-collection), in this case the European Classical Collection, which is department #11. (https://www.metmuseum.org/art/collection/search?showOnly=withImage&department=11)
+Generate a random image from the [Metropolitan Museum of Art Collection](https://www.metmuseum.org/art/the-collection), in this case the European Classical Collection, which is [department #11.](https://www.metmuseum.org/art/collection/search?showOnly=withImage&department=11) 
 
 Credit and link back to the Metropolitan Museum of Art URL.
 
