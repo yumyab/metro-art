@@ -82,7 +82,7 @@ async function fetchRandomImage() {
   document.body.appendChild(button);
 
   imgElement.onerror = () => {
-    // When the image fails to load, remove the elements from the page and call the `fetchRandomImage` function again to try again.
+    // When the image fails to load, remove the elements from the page and call the `fetchRandomImage` function to try again.
     document.body.removeChild(imgElement);
     document.body.removeChild(anchorElement);
     document.body.removeChild(titleElement);
