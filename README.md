@@ -8,9 +8,6 @@ The API is completely open to the public!
 
 >To the extent possible under law, The Metropolitan Museum of Art has waived all copyright and related or neighboring rights to this dataset using the Creative Commons Zero license. 
 
-
-I think a source of inspiration for this project was Chromecast’s painting screensaver option, which I found out later actually uses this same art collection API.
-
 The main functions of the program:
 
 Generate a random image from the Metropolitan Museum of Art Collection (https://www.metmuseum.org/art/the-collection), in this case the European Classical Collection, which is department #11. (https://www.metmuseum.org/art/collection/search?showOnly=withImage&department=11)
