@@ -12,10 +12,14 @@ The API is completely open to the public!
 I think a source of inspiration for this project was Chromecast’s painting screensaver option, which I found out later actually uses this same art collection API.
 
 The main functions of the program:
+
 Generate a random image from the Metropolitan Museum of Art Collection (https://www.metmuseum.org/art/the-collection), in this case the European Classical Collection, which is department #11. (https://www.metmuseum.org/art/collection/search?showOnly=withImage&department=11)
 
 Credit and link back to the Metropolitan Museum of Art URL.
+
 Display title, artist, date, medium, dimensions and credit line of the painting
+
 Add a button to generate a new image etc.
+
 If the painting errors and doesnt generate (usually a licencing issue of the original painting, and it's agreements on reproductions etc) delete info and regenerate.
 
